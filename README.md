@@ -7,3 +7,6 @@ How it works?
   3) Combines using ffmpeg.
 
 simple, isn't it?
+
+here's a example :
+https://youtu.be/2s5zXx3XN8U
