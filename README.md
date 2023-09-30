@@ -14,5 +14,5 @@ https://git-scm.com/download/win
 install cuda 11.8
 https://developer.nvidia.com/cuda-11-8-0-download-archive
 
-here's a example :
+here's a example
 https://youtu.be/2s5zXx3XN8U
