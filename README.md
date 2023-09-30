@@ -8,5 +8,10 @@ How it works?
 
 simple, isn't it?
 
+if you are using windows install git
+link :https://git-scm.com/download/win
+install cuda 11.8
+link :https://developer.nvidia.com/cuda-11-8-0-download-archive
+
 here's a example :
 https://youtu.be/2s5zXx3XN8U
