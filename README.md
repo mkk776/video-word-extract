@@ -8,8 +8,8 @@ How it works?
 
 simple, isn't it?
 
-if you are using windows install git
-https://git-scm.com/download/win
+install whisper_timestamped from
+https://github.com/linto-ai/whisper-timestamped
 
 install cuda 11.8
 https://developer.nvidia.com/cuda-11-8-0-download-archive
