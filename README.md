@@ -11,7 +11,7 @@ simple, isn't it?
 install whisper_timestamped from
 https://github.com/linto-ai/whisper-timestamped
 
-install cuda 11.8 (you may use cpu)
+install cuda 11.8 (optional, you may use cpu)
 https://developer.nvidia.com/cuda-11-8-0-download-archive
 
 here's a example
